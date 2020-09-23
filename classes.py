@@ -68,10 +68,10 @@ drummer = Musician()
 print(drummer.title)
 # prints "Rockstar"
 
+'''
 Above we defined the class Musician, then instantiated drummer to be an object of type Musician. We then printed out the drummer's .title attribute, which is a class variable that we defined as the string "Rockstar".
 If we defined another musician, like guitarist = Musician() they would have the same .title attribute.
-
-
+'''
 
 
 
